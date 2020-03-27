@@ -17,7 +17,7 @@ Réalisée sur la base des cotes réelles de celle utilisée (voir fichiers fram
 	- fichier svg (unité: mm): glasses_lenses.svg
 	- fichier dxf (unité: mm): glasses_lenses.dxf
 
-![Glasses assembled](glasses_assembled.jpg "Glasses assembled")
+![Glasses assembled](glasses_assembled.jpg "Glasses assembled" | width=800)
 
 Cette visière doit être découpée dans une feuille transparente de 0.20 mm d'épaisseur.
 
