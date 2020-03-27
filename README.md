@@ -6,6 +6,8 @@ Dépot de différents modeles réalisés durant la pandémie du coronavirus.
  
 Prototypes réalisés sur la base des cotes réelles (voir fichiers frame_scan.pdf et glasses_scan.pdf)
 
+![Frame](https://github.com/FabLabChene20/fablabchene20.github.io/blob/master/images/Coronalab/frame.jpg "Frame rendering")
+
 - Monture
 	- fichier stl (unité: mm): glasses_frame.stl
 	- code source du dessin réalisé avec Alibre Design: glasses_frame.stl
