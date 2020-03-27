@@ -8,7 +8,7 @@ Prototypes réalisés sur la base des cotes réelles (voir fichiers frame_scan.p
 
 ![Frame](frame.jpg "Frame rendering")
 
-- Monture - UNTESTED for the moment...
+- Monture - 
 	- fichier stl (unité: mm): glasses_frame.stl
 	- code source du dessin réalisé avec Alibre Design: glasses_frame.stl
 
@@ -25,18 +25,19 @@ La lunette est composée d'une
 	- Modélisée avec openscad monture.scad par extrusion
 	- Imprimée avec des couches de 0.3mm 40% en 40 minutes
 
-- D'une visière découpée dans une feuille de PETG de 0.75 mm d'épaisseur
-	- Dessinée avec inkscape safeview.svg
+- D'une visière découpée dans une feuille de 0.20 mm d'épaisseur
+(initialement nous avions pris une feuille de PETG de 0.75mm d'épaisseur)
+	- Dessinée avec inkscape : safeview.svg  safeview.dxf
 	
 
 # Visière faciale
 
-Nous pensons décoper la visiere conçue par Konrad Klepacki et Mateusz Dyrda.
+Nous pensions découper la visiere conçue par Konrad Klepacki et Mateusz Dyrda.
 https://hackaday.io/project/170481-laser-cut-medical-shield
 
-- Nous avons mis deux fichiers de leur projet
-	- Assembly Instruction.pdf
-	- medical_shield_petg_05mm_SingleSheet.pdf
+- Nous n'avons pas testé
+	- VF/Assembly Instruction.pdf
+	- VF/medical_shield_petg_05mm_SingleSheet.pdf
 	
 
 
