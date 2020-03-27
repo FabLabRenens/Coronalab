@@ -8,7 +8,7 @@ Prototypes réalisés sur la base des cotes réelles (voir fichiers frame_scan.p
 
 ![Frame](frame.jpg "Frame rendering")
 
-- Monture
+- Monture - UNTESTED for the moment...
 	- fichier stl (unité: mm): glasses_frame.stl
 	- code source du dessin réalisé avec Alibre Design: glasses_frame.stl
 
