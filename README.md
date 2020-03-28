@@ -17,12 +17,30 @@ Réalisée sur la base des cotes réelles de celle utilisée (voir fichiers fram
 	- fichier svg (unité: mm): glasses_lenses.svg
 	- fichier dxf (unité: mm): glasses_lenses.dxf
 
-<img src="glasses_assembled.jpg" width="400" />
-
 Cette visière doit être découpée dans une feuille transparente de 0.20 mm d'épaisseur.
 
 Nous cherchons la meilleure matière disponible pour cette réalisation (PETG ou Acrylique)
-	
+
+## Assemblage
+
+<img src="glasses_assembled.jpg" width="400" />
+
+## Données de fabrication reçu de la part de la centrale d'achat commune CHUV/HUG
+
+- Le but actuel est de rester dans le modèle connu par le personnel médical (Safeview) et de ne pas rajouter une contrainte supplémentaire en changeant par des visière complète
+- Le matériel n'est absolument pas stérile
+- Les visières des lunettes sont traitées comme des consommables, sauf actuellement ou elles sont quelque peu réutilisées dans le temps
+- Les montures elles sont conservées un peu plus mais tout de même consommées 
+- Les chiffres nets en demande pour les HUG/CHUV sont : **3600 montures/sem. & 7400 visières de lunettes/sem**.
+- Toutes les montures sont en taille unique
+- La couleur n'importe pas du tout 
+- Tous les traitement n'excède pas la température corporelle donc la fabrication en PLA est tout à fait acceptable
+- Les matériaux compatibles avec le contact humain sont tous acceptés
+- Nous partons à l'heure actuelle avec le modèle des lunettes, mais eux vont réétudier la question de passer sur le modèle shield voire un shield sur mesure (demi-visière p.ex.)
+
+## Temps de fabrication estimés
+
+https://github.com/FabLabRenens/Coronalab/blob/master/production_estimation.md
 
 # Visière faciale
 
