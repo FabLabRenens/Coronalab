@@ -9,13 +9,14 @@ Réalisée sur la base des cotes réelles de celle utilisée (voir fichiers fram
 ![Frame](frame.jpg "Frame rendering")
 
 - Monture - 
-	- fichier stl (unité: mm): glasses_frame.stl
-	- code source du dessin réalisé avec Alibre Design: glasses_frame.AD_PRT
-	- fichier stl test (modélisation OpenSCAD): glasses_frame_test.stl
+	- fichier stl (unité: mm): [glasses_frame.stl](glasses_frame.stl)
+	- code source du dessin, Alibre Design ou Atom3D: [glasses_frame.AD_PRT](glasses_frame.AD_PRT)
+	- dessin au format STEP AP 242: [glasses_frame_step_ap_242.stp](glasses_frame_step_ap_242.stp)
+	- fichier stl test (modélisation OpenSCAD): [glasses_frame_test.stl](glasses_frame_test.stl)
 
 - Visière -
-	- fichier svg (unité: mm): glasses_lenses.svg
-	- fichier dxf (unité: mm): glasses_lenses.dxf
+	- fichier svg (unité: mm): [glasses_lenses.svg](glasses_lenses.svg)
+	- fichier dxf (unité: mm): [glasses_lenses.dxf](glasses_lenses.dxf)
 
 Cette visière doit être découpée dans une feuille transparente de 0.20 mm d'épaisseur.
 
