@@ -12,6 +12,7 @@ Réalisée sur la base des cotes réelles de celle utilisée (voir fichiers fram
 	- fichier stl (unité: mm): [glasses_frame.stl](glasses_frame.stl)
 	- code source du dessin, Alibre Design ou Atom3D: [glasses_frame.AD_PRT](glasses_frame.AD_PRT)
 	- dessin au format STEP AP 242: [glasses_frame_step_ap_242.stp](glasses_frame_step_ap_242.stp)
+	- profil 2D: [glasses_frame.dxf](dxf 14) et [glasses_frame.svg](svg) (en cas de doutes sur l'échelle/les unités utilisées: largeur totale de l'objet réel 121.4 mm)
 	- fichier stl test (modélisation OpenSCAD): [glasses_frame_test.stl](glasses_frame_test.stl)
 
 - Visière -
