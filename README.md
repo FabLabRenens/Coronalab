@@ -27,16 +27,16 @@ Nous cherchons la meilleure matière disponible pour cette réalisation (PETG ou
 
 <img src="glasses_assembled.jpg" width="400" />
 
-## Données de fabrication reçu de la part de la centrale d'achat commune CHUV/HUG
+## Données de fabrication reçues de la part de la centrale d'achat commune CHUV/HUG
 
-- Le but actuel est de rester dans le modèle connu par le personnel médical (Safeview) et de ne pas rajouter une contrainte supplémentaire en changeant par des visière complète
+- Le but actuel est de rester dans le modèle connu par le personnel médical (Safeview) et de ne pas rajouter une contrainte supplémentaire en changeant par des visières complètes
 - Le matériel n'est absolument pas stérile
-- Les visières des lunettes sont traitées comme des consommables, sauf actuellement ou elles sont quelque peu réutilisées dans le temps
+- Les visières des lunettes sont traitées comme des consommables, sauf actuellement ou elles sont quelques fois réutilisées
 - Les montures elles sont conservées un peu plus mais tout de même consommées 
 - Les chiffres nets en demande pour les HUG/CHUV sont : **3600 montures/sem. & 7400 visières de lunettes/sem**.
 - Toutes les montures sont en taille unique
 - La couleur n'importe pas du tout 
-- Tous les traitement n'excède pas la température corporelle donc la fabrication en PLA est tout à fait acceptable
+- Tous les traitements n'excèdent pas la température corporelle donc la fabrication en PLA resterait acceptable
 - Les matériaux compatibles avec le contact humain sont tous acceptés
 - Nous partons à l'heure actuelle avec le modèle des lunettes, mais eux vont réétudier la question de passer sur le modèle shield voire un shield sur mesure (demi-visière p.ex.)
 
@@ -44,14 +44,18 @@ Nous cherchons la meilleure matière disponible pour cette réalisation (PETG ou
 
 https://github.com/FabLabRenens/Coronalab/blob/master/production_estimation.md
 
-# Visière faciale
+# Visières faciales
 
 Nous pensions découper la visiere conçue par Konrad Klepacki et Mateusz Dyrda.
 https://hackaday.io/project/170481-laser-cut-medical-shield
+Cette visière présente l'avantage d'être produite uniquement par découpage de feuilles de PETG de 0.5 mm d'épaisseur.
 
-- Nous n'avons pas testé
-	- VF/Assembly Instruction.pdf
-	- VF/medical_shield_petg_05mm_SingleSheet.pdf
+- Nous ne l'avons pas testée : les fichiers sont dans le répertoire VF
+
+Nous pouvons utiliser le même film de 130 ou 180 microns employé pour les lunettes avec ce modéle de structure :
+https://www.myminifactory.com/fr/object/3d-print-115247?fbclid=IwAR2c9N3aFWIlBcmv_PWLbtqA287igzUk3-ZPRXvf5xEHGqIFypm60IjLfNA
+
+- [newshieldsupport-org-notext.stl]
 	
 
 
