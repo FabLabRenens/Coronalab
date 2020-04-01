@@ -29,6 +29,18 @@ Nous cherchons la meilleure matière disponible pour cette réalisation (PETG ou
 
 ## Données de fabrication reçues de la part de la centrale d'achat commune CHUV/HUG
 
+### Point du 01/04/2020
+
+- Le besoin actuel en montures-visières a été revu à la baisse à 4500 unités chacunes en commande réel (point de ce jour avec la centrale d'achat) par semaine au lieu des 7400 précédemment évoqués.
+- La raison principale est qu'ils ont acheté des nouvelles lunettes plus conséquente et stérilisable à plusieurs reprises.
+- Les matériaux actuels des montures sont du PP et du PE pour la partie visière donc cela confirme que le PLA est acceptable d'un point de vue thermique.
+- Les Shields ne sont définitivement pas envisagés au CHUV. Cependant, les HUG évaluent encore cette solution.
+- Les prototypes de Renens seront amenés à une personne de contact très prochainement pour être validés par la centrale d'achat et autres personnes compétentes.
+- D'un point de vue légal et pour répondre à la question d'un autre FabLab, la centrale d'achat des HUG/CHUV n'achète QUE du matériel conforme CE. Et doit donc encore se positionner sur ce point. Ceci est potentiellement le cas de beaucoup d'autres hôpitaux et centre de soins.
+- Notre but n'étant pas de prendre des parts de marché, mais de faire fonctionner un système qui pourrait être/devenir dysfonctionnant (chaîne d'approvisionnement rompue, etc.) nous resterons en attente d'une demande formelle pour approvisionner en masse ces deux hôpitaux.
+
+### Point du 26/03/2020
+
 - Le but actuel est de rester dans le modèle connu par le personnel médical (Safeview) et de ne pas rajouter une contrainte supplémentaire en changeant par des visières complètes
 - Le matériel n'est absolument pas stérile
 - Les visières des lunettes sont traitées comme des consommables, sauf actuellement ou elles sont quelques fois réutilisées
