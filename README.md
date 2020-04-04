@@ -37,8 +37,7 @@ Assurez-vous de remplir les [quelques critères de base: suivi de consignes d'hy
 | 👉 | Si votre matériau et votre machine son déjà dans la liste des [fichiers avec profile prêts à l'emploi](https://github.com/FabLabRenens/Coronalab/wiki/Print-profiles) vous pouvez commencer tout des suite |
 | ---- | :---- |
 
-| 👉 | Sinon, téléchargez le modèle [glasses_frame.stl](glasses/glasses_frame.stl) (unité: mm). TODO:  paramètres d'impression (matériaux, hauteur de couche, diamètre de buse, remplissage)]
- |
+| 👉 | Sinon, téléchargez le modèle [glasses_frame.stl](glasses/glasses_frame.stl) (unité: mm). TODO:  paramètres d'impression (matériaux, hauteur de couche, diamètre de buse, remplissage)] |
 | ---- | :---- |
 
 
