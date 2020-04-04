@@ -11,7 +11,7 @@ Le modèle est composé d'une **monture** à imprimer en 3D (FDM) ainsi que d'un
 
 <img src="media/frame.jpg" width="200" />*+*
 <img src="media/thumb_frame_lenses.png" width="200" />*=*
-<img src="media/glasses_assembled.jpg" width="200" />
+<img src="media/glasses_assembled.jpg" title="prototype imprimé et découpé par Matthieu Borgognon" width="200" />
 
 
 Après une phase initiale de récolte d'informations, de prototypage et de test ([lire l'historique](historique.md)), il est temps de passer à la **production**!
