@@ -1,62 +1,58 @@
 # Coronalab
 
-Dépot de différents projets réalisés durant la pandémie du covid19.
+**Dépot de différents projets réalisés durant la pandémie du covid19.**
 
-# Lunette de protection CHUV
- 
-Réalisée sur la base des cotes réelles de celle utilisée (voir fichiers frame_scan.pdf et glasses_scan.pdf)
+## Lunettes de protection | _Protective glasses_
 
-![Frame](frame.jpg "Frame rendering")
+Lunettes de protection utilisées en milieu hospitalier. Modèle réalisé à la demande des hôpitaux universitaires afin d'assurer la continuité de l'aprovisionnement avec l'aide des fablab, makerspace et de toutes celles et ceux en mesure de contribuer avec leur équipement, leur temps et leur bonne volonté.
 
-- Monture - 
-	- fichier stl (unité: mm): [glasses_frame.stl](glasses_frame.stl)
-	- code source du dessin, Alibre Design ou Atom3D: [glasses_frame.AD_PRT](glasses_frame.AD_PRT)
-	- dessin au format STEP AP 242: [glasses_frame_step_ap_242.stp](glasses_frame_step_ap_242.stp)
-	- profil 2D: [dxf 14](glasses_frame.dxf) et [svg](glasses_frame.svg) (en cas de doutes sur l'échelle/les unités utilisées: largeur totale de l'objet réel 121.4 mm)
-	- fichier stl test (modélisation OpenSCAD): [glasses_frame_test.stl](glasses_frame_test.stl)
+Le modèle est composé d'une **monture** à imprimer en 3D (FDM) ainsi que d'une **visière** découpée dans un film en polyester d'une épaisseur comprise entre 0.130 et 0.200 mm.
 
-- Visière -
-	- fichier svg (unité: mm): [glasses_lenses.svg](glasses_lenses.svg)
-	- fichier dxf (unité: mm): [glasses_lenses.dxf](glasses_lenses.dxf)
 
-Cette visière doit être découpée dans une feuille transparente de 0.20 mm d'épaisseur.
+<img src="media/frame.jpg" width="200" />*+*
+<img src="media/thumb_frame_lenses.png" width="200" />*=*
+<img src="media/glasses_assembled.jpg" width="200" />
 
-Nous cherchons la meilleure matière disponible pour cette réalisation (PETG ou Acrylique)
 
-## Assemblage
+Après une phase initiale de récolte d'informations, de prototypage et de test ([lire l'historique](historique.md)), il est temps de passer à la **production**!
 
-<img src="glasses_assembled.jpg" width="400" />
+## Pourquoi participer ?
 
-## Données de fabrication reçues de la part de la centrale d'achat commune CHUV/HUG
+Ces lunettes répondent à une demande précise et donc à un besoin avéré des responsables du CHUV (Lausanne-Vaud) et des HUG (Genève), confrontés à la menace d'une pénurie puisque en ce moment l'approvisionnement par les canaux habituels est fortement perturbé voire impossible.
+Elles sont utilisées par presque tous les services, au delà de ceux qui sont directement confrontés aux cas avérés de COVID-19. La situation actuelle menace d'aboutir à une pénurie qui affecterait l'ensemble des services.
 
-### Point du 01/04/2020
+## Comment participer ?
 
-- Le besoin actuel en montures-visières a été revu à la baisse à 4500 unités chacunes en commande réel (point de ce jour avec la centrale d'achat) par semaine au lieu des 7400 précédemment évoqués.
-- La raison principale est qu'ils ont acheté des nouvelles lunettes plus conséquente et stérilisable à plusieurs reprises.
-- Les matériaux actuels des montures sont du PP et du PE pour la partie visière donc cela confirme que le PLA est acceptable d'un point de vue thermique.
-- Les Shields ne sont définitivement pas envisagés au CHUV. Cependant, les HUG évaluent encore cette solution.
-- Les prototypes de Renens seront amenés à une personne de contact très prochainement pour être validés par la centrale d'achat et autres personnes compétentes.
-- D'un point de vue légal et pour répondre à la question d'un autre FabLab, la centrale d'achat des HUG/CHUV n'achète QUE du matériel conforme CE. Et doit donc encore se positionner sur ce point. Ceci est potentiellement le cas de beaucoup d'autres hôpitaux et centre de soins.
-- Notre but n'étant pas de prendre des parts de marché, mais de faire fonctionner un système qui pourrait être/devenir dysfonctionnant (chaîne d'approvisionnement rompue, etc.) nous resterons en attente d'une demande formelle pour approvisionner en masse ces deux hôpitaux.
+Les besoins évoluent sans cesse, mais actuellement ils sont chiffrés à 700 montures et 4500 visières **par semaine**.
+Pour la découpe des **visières** nous essayons en priorité d'avoir recours à de l'**équipement industriel** (découpeuses à lames), capable de produire plus aisément dans les volumes requis. En fonction de l'évolution des besoins, difficile à anticiper, une mise à contribution des découpeuses laser de nos labs et spaces pourrait être envisageable. Les fichiers pour la découpe sont disponibles en [svg](glasses/glasses_lenses.svg) et [dxf](glasses/glasses_lenses.dxf) (unité: mm)
 
-### Point du 26/03/2020
+Pour les montures, en revanche, tous les FabLab, Makerspace, tiers-lieux et individus disposant d'une **imprimante 3D FDM peuvent aider à éviter la pénurie dès maintenant**!
 
-- Le but actuel est de rester dans le modèle connu par le personnel médical (Safeview) et de ne pas rajouter une contrainte supplémentaire en changeant par des visières complètes
-- Le matériel n'est absolument pas stérile
-- Les visières des lunettes sont traitées comme des consommables, sauf actuellement ou elles sont quelques fois réutilisées
-- Les montures elles sont conservées un peu plus mais tout de même consommées 
-- Les chiffres nets en demande pour les HUG/CHUV sont : **3600 montures/sem. & 7400 visières de lunettes/sem**.
-- Toutes les montures sont en taille unique
-- La couleur n'importe pas du tout 
-- Tous les traitements n'excèdent pas la température corporelle donc la fabrication en PLA resterait acceptable
-- Les matériaux compatibles avec le contact humain sont tous acceptés
-- Nous partons à l'heure actuelle avec le modèle des lunettes, mais eux vont réétudier la question de passer sur le modèle shield voire un shield sur mesure (demi-visière p.ex.)
+### Imprimer en 3D des **montures**
 
-## Temps de fabrication estimés
+Annoncez-vous ici TODO:[liens vers le WIKI? email?]
 
-https://github.com/FabLabRenens/Coronalab/blob/master/production_estimation.md
+Assurez-vous de remplir les [quelques critères de base: suivi de consignes d'hygiène - à discuter avec CHUV ; est-ce qu'ils vont de toute façon systematiquement désinfecter avant usage?] et prenez connaissance de la [logistique (préparation dans des sachets ou envelopes, envoi où? etiquetage avec qui et date?], ensuite:
 
-# Visières faciales
+| 👉 | Si votre matériau et votre machine son déjà dans la liste des [fichiers avec profile prêts à l'emploi](https://github.com/FabLabRenens/Coronalab/wiki/Print-profiles) vous pouvez commencer tout des suite |
+| ---- | :---- |
+
+| 👉 | Sinon, téléchargez le modèle [glasses_frame.stl](glasses/glasses_frame.stl) (unité: mm). TODO:  paramètres d'impression (matériaux, hauteur de couche, diamètre de buse, remplissage)]
+ |
+| ---- | :---- |
+
+
+Les fichiers suivants sont également disponibles:
+
+- code source du dessin, Alibre Design ou Atom3D: [glasses_frame.AD_PRT](glasses/glasses_frame.AD_PRT), et dessin 2D y relatif [glasses_frame.AD_DRW](glasses/glasses_frame.AD_DRW). Penses au fait que toute modification du modèle demande en principe une validation par les hôpitaux avant d'être produite en masse...
+
+- profil 2D: [dxf 14](glasses/glasses_frame.dxf) et [svg](glasses/glasses_frame.svg) (en cas de doutes sur l'échelle/les unités utilisées: largeur totale de l'objet réel 121.4 mm)
+- dessin au format STEP AP 242: [glasses_frame_step_ap_242.stp](glasses/glasses_frame_step_ap_242.stp)
+- stl issu de tests de modélisation OpenSCAD - *utiliser uniquement pour des test, PAS pour la production*): [glasses_frame_test.stl](glasses/glasses_frame_test.stl)
+
+
+
+## Visières faciales intégrales
 
 Nous pensions découper la visiere conçue par Konrad Klepacki et Mateusz Dyrda.
 https://hackaday.io/project/170481-laser-cut-medical-shield
@@ -67,7 +63,7 @@ Cette visière présente l'avantage d'être produite uniquement par découpage d
 Nous pouvons utiliser le même film de 130 ou 180 microns employé pour les lunettes avec ce modéle de structure :
 https://www.myminifactory.com/fr/object/3d-print-115247?fbclid=IwAR2c9N3aFWIlBcmv_PWLbtqA287igzUk3-ZPRXvf5xEHGqIFypm60IjLfNA
 
-- [newshieldsupport-org-notext.stl]
+- [newshieldsupport-org-notext.stl](ns/newshieldsupport-org-notext.stl)
 	
 
 
