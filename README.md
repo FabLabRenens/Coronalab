@@ -4,7 +4,7 @@
 
 ## Lunettes de protection | _Protective glasses_
 
-Lunettes de protection utilisées en milieu hospitalier. Modèle réalisé à la demande des hôpitaux universitaires afin d'assurer la continuité de l'aprovisionnement avec l'aide des fablab, makerspace et tiers-lieux en mesure de contribuer.
+Lunettes de protection utilisées en milieu hospitalier. Modèle réalisé à la demande des hôpitaux universitaires afin d'assurer la continuité de l'approvisionnement avec l'aide des fablab, makerspace et tiers-lieux en mesure de contribuer.
 
 Le modèle est composé d'une **monture** à imprimer en 3D (FDM) ainsi que d'une **visière** découpée dans un film en polyester d'une épaisseur comprise entre 0.130 et 0.200 mm.
 
