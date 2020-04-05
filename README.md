@@ -14,12 +14,14 @@ Le modèle est composé d'une **monture** à imprimer en 3D (FDM) ainsi que d'un
 <img src="media/glasses_assembled.jpg" title="prototype imprimé et découpé par Matthieu Borgognon" width="200" />
 
 
-Après une phase initiale de récolte d'informations, de prototypage et de test ([lire l'historique](https://github.com/FabLabRenens/Coronalab/wiki/Historique)), il est temps de passer à la **production**!
+Après une phase initiale de récolte d'informations, de prototypage et de test (lire [l'historique des points de situation](https://github.com/FabLabRenens/Coronalab/wiki/Historique)), il est temps de passer à la **production**.
 
 ## Pourquoi ce projet ?
 
-Ces lunettes répondent à une demande précise et donc à un besoin avéré des responsables du CHUV (Lausanne-Vaud) et des HUG (Genève), confrontés à la menace d'une pénurie puisque en ce moment l'approvisionnement par les canaux habituels est fortement perturbé voire impossible.
+Ces lunettes répondent à une demande précise et donc à un besoin avéré des responsables du CHUV (Lausanne-Vaud) et des HUG (Genève), qui sont confrontés à la menace d'une pénurie puisque en ce moment l'approvisionnement par les canaux habituels est fortement perturbé voire impossible.
 Elles sont utilisées par presque tous les services, au delà de ceux qui sont directement confrontés aux cas avérés de COVID-19. La situation actuelle menace d'aboutir à une pénurie qui affecterait l'ensemble des services.
+
+Cet [article sur le site du fablab Renens](http://www.fablab-renens.ch/news/covid19-que-faisons-nous/) illustre le chemin qui nous a amené jusqu'ici.
 
 ## En quoi consiste notre engagement ?
 
