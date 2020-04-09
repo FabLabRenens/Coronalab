@@ -29,13 +29,13 @@ Les besoins évoluent sans cesse, mais actuellement ils sont chiffrés à 700 mo
 
 ### A propos de licence
 
-        Il n'est pas dans l'éthique des FabLabs de copier des marchandises.
-        Il n'est pas dans l'éthique des FabLabs de priver le personnel médical d'un outil précieux alors qu'ils peuvent se donner les moyens de le produire. 
-        Nous fournissons ici les modèles pour permettre aux FabLabs, Makerspace, Tiers-Lieux et à toutes les personnes en mesure de le faire de contribuer à produire ces objets dont il y a actuellemment pénurie. Nous faisons ça à la demande des institutions de santé et dans le seul et unique but de soutenir le personnel soignant avec cet équipement de sécurité. Ces modèles seront retirés de ce site dès que l'approvvisionnement de la part des hôpitaux sera de noveau possible par les canaux commerciaux habituels. Nous ne pouvons attribuer aucune licence à ces modèles, ni offrir aucune garantie légale pour leur production et leur utilisation. Il incombe à chaque personne qui télécharge ces modèles de s'assurer de la conformité juridique de son action. Si vous voulez fabbriquer ces objets à la demande d'une institution de santé, nous vous conseillons de discuter préalablement avec celle-ci des aspects légaux sous-jacents pour que vous soyez protégé.
+Il n'est pas dans l'éthique des FabLabs de copier des marchandises.
+Il n'est pas dans l'éthique des FabLabs de priver le personnel médical d'un outil précieux alors qu'ils peuvent se donner les moyens de le produire.
+Nous fournissons ici les modèles pour permettre aux FabLabs, Makerspace, Tiers-Lieux et à toutes les personnes en mesure de le faire de contribuer à produire ces objets dont il y a actuellemment pénurie. Nous faisons ça à la demande des institutions de santé et dans le seul et unique but de soutenir le personnel soignant avec cet équipement de sécurité. Ces modèles seront retirés de ce site dès que l'approvvisionnement de la part des hôpitaux sera de noveau possible par les canaux commerciaux habituels. Nous ne pouvons attribuer aucune licence à ces modèles, ni offrir aucune garantie légale pour leur production et leur utilisation. Il incombe à chaque personne qui télécharge ces modèles de s'assurer de la conformité juridique de son action. Si vous voulez fabbriquer ces objets à la demande d'une institution de santé, nous vous conseillons de discuter préalablement avec celle-ci des aspects légaux sous-jacents pour que vous soyez protégé.
+
 
 ### Visières
 Pour la découpe des **visières** nous essayons en priorité d'avoir recours à de l'**équipement industriel** (découpeuses à lames), capable de produire plus aisément dans les volumes requis. En fonction de l'évolution des besoins, difficile à anticiper, une mise à contribution des découpeuses laser de nos labs et spaces pourrait être envisageable. Les fichiers pour la découpe sont disponibles en [svg](glasses/glasses_lenses.svg) et [dxf](glasses/glasses_lenses.dxf) (unité: mm)
-
 
 
 ### Impression en 3D des **montures**
