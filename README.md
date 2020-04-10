@@ -47,8 +47,8 @@ Sur la plupart des machines FDM les plus courantes il est possible d'arranger ju
 
 Il y a aussi des [fichiers avec profiles prêts à l'emploi](https://github.com/FabLabRenens/Coronalab/wiki/Print-profiles). La liste est destinée à s'étouffer. Si vous imprimez avec succès en utilisant une configuration matériel/machine qui ne figure pas encore dans la liste, merci de nous l'envoyer à fablab_renens_su@googlegroups.com pour que tout le monde puisse en profiter.
 
-Lors de l'impression, attention à l'effet "patte d'elephant" (cf. par exemple [cette description du problème](https://support.3dverkstan.se/article/23-a-visual-ultimaker-troubleshooting-guide#elephant)). Il existe une [variante du modèle stl](glasses/glasses_frame_bigger_chamfer.stl) avec un chamfrin plus important pour tenter de mitiger ce problème, mais les test ne sont pas encore conclus). Les slicer courants offrent aussi des réglages (souvent appelés "elephant foot compensation") pour mitiger cet effet .
-Au final, *vérifiez que le bord inférieur des montures* 1) ne soit pas coupant ou désagréable au contact 2) puisse entrer dans les trous correspondants sur les visières (cercles de 6 mm de diamètre).  
+Lors de l'impression, attention à l'effet "patte d'elephant" (cf. par exemple [cette description du problème](https://support.3dverkstan.se/article/23-a-visual-ultimaker-troubleshooting-guide#elephant)). Il existe une [variante du modèle stl](glasses/glasses_frame_bigger_chamfer.stl) avec un chamfrin plus important pour tenter de mitiger ce problème, mais les test ne sont pas encore conclus). Les slicer courants offrent aussi des réglages (souvent appelés "elephant foot compensation ou "Initial Layer Line Width") pour mitiger cet effet .
+Au final, *vérifiez que le bord inférieur des montures* 1) ne soit pas coupant ou désagréable au contact 2) puisse entrer dans les trous correspondants sur les visières (cercles de 6 mm de diamètre).
 
 Les fichiers suivants sont également disponibles:
 
