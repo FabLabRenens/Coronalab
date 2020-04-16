@@ -9,7 +9,7 @@ Lunettes de protection utilisées en milieu hospitalier. Modèle réalisé à la
 Le modèle est composé d'une **monture** à imprimer en 3D (FDM) ainsi que d'une **visière** découpée dans un film en polyester d'une épaisseur comprise entre 0.130 et 0.200 mm.
 
 
-<img src="media/frame.jpg" width="200" />*+*
+<img src="media/glasses_frame_v2.png" width="200" />*+*
 <img src="media/thumb_frame_lenses.png" width="200" />*=*
 <img src="media/glasses_assembled.jpg" title="prototype imprimé et découpé par Matthieu Borgognon" width="200" />
 
