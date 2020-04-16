@@ -42,7 +42,8 @@ Pour la découpe des **visières** nous essayons en priorité d'avoir recours à
 
 Le modèle est ici: [glasses_frame_v2.stl](glasses/glasses_frame_v2.stl) (unité: mm).
 Mise à jour du 16 avril 2020: une nouvelle version est désormais en ligne. Il s'agit d'une autre variante de lunettes utilisées couramment qui présente l'avantage d'être plus large et de mieux accomoder les visières.  
-Si vous imprimez des montures en ce moment, __merci d'utiliser ce nouveau modèle pour tout nouveau sachet de 10__ (finissez d'abord les impressions nécessaires pour remplir le sachet de 10, merci de ne pas mélanger les deux modèles dans le même sachet!
+Si vous imprimez des montures en ce moment, __merci d'utiliser ce nouveau modèle pour tout nouveau sachet de 10__ (finissez d'abord les impressions nécessaires pour remplir le sachet de 10, merci de ne pas mélanger les deux modèles dans le même sachet!  
+La nouvelle version des montures est légèrement plus large à certains endroits (d'environ 5 mm). Par conséquent, il n'est plus possible sur certaines imprimantes d'imprimer 3 montures en même temps.
 
 Nous l'avons testé en PETG et PLA. Le modèle en PETG a été validé par le CHUV, celui en PLA pas encore.
 En principe l'ABS doit aussi être possible.
