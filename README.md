@@ -35,7 +35,9 @@ Nous fournissons ici les modèles pour permettre aux FabLabs, Makerspace, Tiers-
 
 
 ### Visières
-Pour la découpe des **visières** nous essayons en priorité d'avoir recours à de l'**équipement industriel** (découpeuses à lames), capable de produire plus aisément dans les volumes requis. En fonction de l'évolution des besoins, difficile à anticiper, une mise à contribution des découpeuses laser de nos labs et spaces pourrait être envisageable. Les fichiers pour la découpe sont disponibles en [svg](glasses/glasses_lenses.svg) et [dxf](glasses/glasses_lenses.dxf) (unité: mm)
+Pour la découpe des **visières** nous essayons en priorité d'avoir recours à de l'**équipement industriel** (découpeuses à lames), capable de produire plus aisément dans les volumes requis. En fonction de l'évolution des besoins, difficile à anticiper, une mise à contribution des découpeuses laser de nos labs et spaces pourrait être envisageable. Les fichiers pour la découpe (découpeuse à lames ou laser) sont disponibles en [svg](glasses/glasses_lenses.svg) et [dxf](glasses/glasses_lenses.dxf) (unité: mm).  
+Pour une découpe manuelle de petites séries, Jochen Hanselmann a créé un [guide / emporte-pièce à imprimer en 3d](glasses/glasses_template-3.stl), avec une [image qui en illustre le principe de fonctionnement](glasses/template_jh_howto.jpeg). *Attention*: les trous doivent être réalisés avec un perforateur à feuilles, ou avoir un diamètre suffisant.
+
 
 
 ### Impression en 3D des **montures**
